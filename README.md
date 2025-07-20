@@ -1,55 +1,33 @@
-# 👋 Hi, I'm Youssef Ben Abid
+# Youssef Ben Abid
 
-**🎓 Final Year IT Student** | **🌐 Full-Stack Developer** | **🎮 Game & 3D Enthusiast**
+**Final Year IT Student | Full-Stack Developer | Tech & Game Enthusiast**
 
-📍 Kelibia, Tunisia  
-📧 benabidyoussef75@gmail.com  
-📞 +216 29 131 170  
+---
 
-## 🔧 Technologies & Skills
+## Technologies & Skills
 
-**Programming:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+- **Languages:** PHP, Python, JavaScript, Dart  
+- **Frameworks & Tools:** Flutter, Node.js, Unity, Blender, MySQL
 
-**Frameworks:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black)
+---
 
-**Tools:**  
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+## Key Projects
 
-## 🚀 Notable Projects
+- **ForsaDrive** – PHP-based carpooling platform  
+- **Examenti** – Exam mobile app built with Flutter  
+- **3D Survival Game** – Unity / C# game development project  
+- **Hotel Management System** – Python & Qt application
 
-- **ForsaDrive** - PHP carpooling platform
-- **Examenti** - Flutter exam mobile app
-- **3D Survival Game** - Unity/C# project
-- **Hotel Management** - Python/Qt system
+---
 
-## 📚 Education
+## Education
 
 **Bachelor in Information Technology**  
-ISET Kelibia (2023-2026)  
-Specialization: Multimedia & Web Development
+Specialization: Multimedia & Web Development – ISET Kelibia (2023-2026)
 
-## 💼 Experience
+---
 
-**Python Instructor & Web Developer**  
-Mind Mirror Academy (2025)  
-- Taught Python programming
-- Built Node.js management dashboard
+## IT Experience
 
-**Financial Agent & Developer**  
-Tunisian Post (2024)  
-- Processed 200+ daily transactions
-- Replicated financial web platform
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://rb.gy/6c8y0b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:benabidyoussef75@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ucef75)
+- Python instructor and web developer (Node.js) at Mind Mirror Academy  
+- Financial agent and web platform developer at Tunisian Post
