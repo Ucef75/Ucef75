@@ -3,6 +3,7 @@
 *Final Year IT Student | Full-Stack Developer | Tech & Game Enthusiast*
 
 ---
+
 ## 🛠️ Skills
 
 **Languages:**  
@@ -10,8 +11,6 @@
 
 **Frameworks & Tools:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-
 
 ---
 
@@ -21,14 +20,14 @@
 *PHP-based carpooling platform*  
 Open-source project to connect drivers and passengers for ride sharing.
 
-### Examenti  
-*Exam mobile app developed with Flutter*
+### [Examenti](https://github.com/Ucef75/Examenti.git)  
+*Exam mobile app developed with Flutter for both professors and students*
 
 ### 3D Survival Game  
 *Game development project using Unity and C#*
 
-### Hotel Management System  
-*Desktop app built in Python with Qt*
+### [Pixely](https://github.com/Ucef75/JavaFx-Project.git)  
+*A platform built with JavaFX featuring different games with CRUD functionalities*
 
 ---
 
@@ -36,4 +35,3 @@ Open-source project to connect drivers and passengers for ride sharing.
 
 **Bachelor in Information Technology**  
 Multimedia & Web Development — ISET Kelibia (2023-2026)
-
